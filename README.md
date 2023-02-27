@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mikaël Gallé</h1>
 <h3 align="center">A developer from France</h3>
 
-- 🔭 I’m currently working on [Make Sense](https://github.com/WildCodeSchool/202209-orleans-php-project-makesense)
 
-- 🌱 I’m currently learning **PHP, Symphony**
+- 🌱 I’m currently learning **JS, React**
 
 - ⚡ Fun fact **I Love Sad Cat Meme**
 
