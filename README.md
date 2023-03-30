@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋</h1>
 
-# 💫 About Me:
 <br>🌱 I’m currently learning Javascript and React.<br>
 
 
