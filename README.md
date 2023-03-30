@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mikaël Gallé</h1>
-<h3 align="center">A developer from France</h3>
+<h1 align="center">Hi 👋</h1>
 
 # 💫 About Me:
 <br>🌱 I’m currently learning Javascript and React.<br>
