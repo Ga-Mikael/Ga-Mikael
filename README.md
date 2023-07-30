@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-<br>🌱 I’m currently learning Javascript and React.<br>
+<br>🌱 I’m currently learning React and Ts.<br>
 
 
 # 💻 Tech Stack:
